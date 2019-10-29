@@ -1,0 +1,56 @@
+#menuPrincipal{
+    border-width: 0px;
+    background-color:darkgray;
+    width: 20%;
+    border: 5px blue ridge;
+    border-top-style: double;  
+    border-bottom-style: double; 
+    border-right-style: double;  
+    border-left-style: double;
+    float: left;
+}
+
+#contenido {
+    width: 35%;
+    background-color:darkgray;
+    margin: 0px 0px 0px 5px;
+    padding: 5px 20px 5px 20px;
+    border: 5px blue ridge;
+    border-top-style: double;  
+    border-bottom-style: double; 
+    border-right-style: double;  
+    border-left-style: double;
+    float: left;
+}
+
+#tercera{
+    width: 34%;
+    background-color:darkgray;
+    margin: 0px 0px 0px 5px;   
+    border: 5px blue ridge;
+    border-top-style: double;  
+    border-bottom-style: double; 
+    border-right-style: double;  
+    border-left-style: double;
+    float: left;
+}
+
+#footer{   
+    width: 100%; 
+    background-color:darkgray; 
+    margin-top: 10px;    
+    margin-right: 10px;
+    border-width:10px;    
+    padding: 20px 20px; 
+    border: 5px blue ridge;
+    padding: 10px 200px 10px 200px;
+
+    border-top-style: double;  
+    border-bottom-style: double; 
+    border-right-style: double;  
+    border-left-style: double;     
+    float:left;
+}
+
+
+
